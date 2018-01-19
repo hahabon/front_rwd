@@ -1,0 +1,7 @@
+1.example.html is the pattern
+2.install steps
+ npm install
+ npm install -g gulp
+ gulp copy ( when node modules update , then do this)
+ gulp sprite ( when new sprite image update , put it in assets/images/sprite , then do this )
+ gulp ( begin watch , main targets for update : assets/js/app.js , assets/scss/style.scss )

@@ -1,0 +1,19 @@
+{
+  "name": "zellion2",
+  "version": "1.0.0",
+  "description": "npm install -g node-sass less\r npm install -g gulp\r npm install gulp gulp-sass gulp-less",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "gulp-concat": "^2.6.1",
+    "gulp.spritesmith": "^6.9.0",
+    "jquery": "^3.2.1",
+    "uglify": "^0.1.5"
+  }
+}
